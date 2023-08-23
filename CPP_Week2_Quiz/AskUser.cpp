@@ -6,7 +6,7 @@ using namespace std;
 
 void AskUser::greetUser()
 {
-	cout << "Hello! Please Enter Your Last Name to Continue!";
+	cout << "Hello! Please Enter Your Last Name to Continue! ";
 	
 	string userLastName;
 	
